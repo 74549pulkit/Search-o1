@@ -4,3 +4,4 @@ sentencepiece
 vllm
 tqdm
 nltk
+pandas
